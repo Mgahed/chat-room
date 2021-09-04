@@ -14,7 +14,7 @@ npm run serve
 ```
 npm run build
 ```
-##<u>About the project</u>
+##About the project
 **It's a chat room, and anyone registered can type whatever he/she want, but it's live so no need to reload the page to see new message**
 
 ### Customize configuration
